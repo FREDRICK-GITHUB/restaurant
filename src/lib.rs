@@ -1,4 +1,3 @@
-
 mod back_of_house {
     /* Structs are private by default. A public struct still has private fields unless they are made public*/
     pub struct Breakfast {
